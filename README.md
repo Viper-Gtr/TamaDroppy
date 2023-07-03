@@ -1,4 +1,6 @@
 # TamaDroppy
- Digital Egg Drop Egg
+ Digital Egg Drop Egg - original from /CNCKitchen/TamaDroppy
  
- Initial Release - More Info to be added the next days.
+I wanted to make such an egg for a long time, but Stefan was quicker.
+
+So here is my custom PCB and CAD-files. It a little bit differnet assambeled, but the same screen position and external dimensions.
